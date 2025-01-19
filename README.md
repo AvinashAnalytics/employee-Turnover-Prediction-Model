@@ -1,4 +1,8 @@
-# :rocket:Capstone Project: Employee Turnover Prediction**
+#               Capstone Project: Employee Turnover Prediction
+<div  align="center">
+  <img src="https://tse1.mm.bing.net/th?id=OIG4.KYvjjfF3z70AHTUlj7p4&pid=ImgGn" alt="hehehe" width="300" height="300">
+</div>
+
 
 Welcome to my **Capstone Project**! In this project, I developed a **predictive model** to identify **employee turnover** at **Salifort Motors**, a fictional company. Using **data analytics** and **machine learning** techniques, I built a robust model that can predict whether employees are likely to stay or leave the company. This is a crucial business challenge, and my solution aims to help organizations reduce turnover costs and improve employee retention. 🚀
 

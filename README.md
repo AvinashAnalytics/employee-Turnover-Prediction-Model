@@ -8,7 +8,7 @@ Welcome to my **Capstone Project**! In this project, I developed a **predictive 
 
 Click the following files to see detailed results of this project:
 
-- [PACE Strategy Document](Course%207%20PACE%20strategy%20document.pdf)
+- [PACE Strategy Document](reports/Course%207%20PACE%20strategy%20document.pdf)
 - [Executive Summary](Salifort_Motors_executive_summary.pdf)
 - [Project Lab](Activity_%20Course%207%20Salifort%20Motors%20project%20lab.ipynb)
 
